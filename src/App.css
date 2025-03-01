@@ -1,0 +1,29 @@
+.navSection{
+  border: 1px solid black;
+  display: flex;
+  justify-content: space-between;
+  background-color: black;
+  color: white;
+}
+img{
+width: 600px;
+height: 600px;
+}
+.cards{
+  display:flex;
+  justify-content: center;
+  gap: 15px;
+}
+.container{
+  width: 600px;
+  height: 600px;
+  background-color: aquamarine;
+  justify-content: center;
+}
+.sub-container{
+  width: 600px;
+  height: 600px;
+  background-color:aqua;
+  justify-content: center;
+}
+
